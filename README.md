@@ -1,3 +1,5 @@
+This README is made with AI
+
 🏦 Python Bank Account Program
 A simple command-line banking application built with Python. This program simulates a basic bank account, allowing users to deposit money, withdraw money, and check their balance — all through an easy-to-use text menu. It's a great beginner project for learning about object-oriented programming (OOP), classes, and user input handling in Python.
 
